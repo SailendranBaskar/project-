@@ -1,3 +1,3 @@
-a= 4
-b= 2
+a = int ("")
+b= int("")
 print (a+b)
